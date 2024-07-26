@@ -28,4 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artslimedev&show_icons=true&title_color=2ec0ff&text_color=2ec0ff&bg_color=244184&locale=en&layout=compact" alt="artslimedev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artslimedev&show_icons=true&text_color=2ec0ff&bg_color=244184&locale=en" alt="artslimedev" /></p>
