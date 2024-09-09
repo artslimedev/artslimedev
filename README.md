@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiyo!</h1>
 <h3 align="center">A full-stack Software Engineer at Total Wine & More with a passion for art and aesthetics based in South Florida!</h3>
 
-- 🔭 I’m currently working on [Tempest fitness journal and a ios app in the brainstorming phase.](https://github.com/artslimedev/fitness-app)
-
 - Some of the technologies I'm currently learning are **React & React Native**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
