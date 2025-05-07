@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paolo</h1>
-<h3 align="center">A full-stack Software Engineer with a passion for art and aesthetics based in South Florida!</h3>
+<h3 align="center">A fullstack Software Engineer with a passion for art and aesthetics based in South Florida!</h3>
 <p align="center">
 <a href="https://artslime.dev/">
 <img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=nextdotjs&logoColor=%23fff&logoSize=auto&link=https%3A%2F%2Fartslime.dev%2F">
